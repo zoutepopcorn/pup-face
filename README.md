@@ -7,7 +7,7 @@ It will login to facebook.
 You can set ``headless: true`` if you don't want to launch a browser
 
 # install
-* Node.js v 8.x & npm
+* Node.js v v10.1.0 tested
 
 ```
 git clone https://github.com/zoutepopcorn/pup-face
