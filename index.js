@@ -5,7 +5,7 @@ const sleep = async (ms) => {
   return new Promise((res, rej) => {
     setTimeout(() => {
       res();
-    }, 2000)
+    }, ms)
   });
 }
 
